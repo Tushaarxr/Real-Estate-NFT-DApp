@@ -1,0 +1,33 @@
+{
+    "name": "Beachfront Villa in Malibu",
+    "address": "123 Ocean Avenue, Malibu, CA 90265",
+    "description": "Exquisite beachfront villa with stunning ocean views",
+    "image": "https://ipfs.io/ipfs/QmR2yLbNSnRg2ED9eJ7tBxvF9kPqqjovZwv35V1gwyZr1g/1.png",
+    "id": "4",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Villa"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 4000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2008
+        }
+    ]
+}
